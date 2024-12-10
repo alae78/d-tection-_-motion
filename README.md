@@ -19,7 +19,7 @@ Grâce à l’adaptation et à l’entraînement de **DistilBERT** sur des donn�
 ## **Installation**
 
 ### **Prérequis**
-- Python 3.8 ou version ultérieure
+- Python 3.11
 - Bibliothèques nécessaires :
   - `transformers`
   - `torch`
@@ -29,5 +29,5 @@ Grâce à l’adaptation et à l’entraînement de **DistilBERT** sur des donn�
 ### **Étapes**
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/nom_utilisateur/emotion_detection.git
+   git clone https://github.com/alae78/emotion_detection.git
    cd emotion_detection
